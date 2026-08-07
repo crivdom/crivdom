@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI! I'm a Systems Engineer with experience supporting enterprise SaaS solutions in the digital advertising industry.<br> <br>Alongside my professional experience, I've continued strengthening my software engineering foundation through personal development projects focused on Python, JavaScript, SQL, Flask and web technologies.<br> <br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to grow in the IT industry and contribute to projects that make an impact. 🚀
+HI! I'm a Systems Engineer with technical support experience.<br> <br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to grow in the IT industry and contribute to projects that make an impact. 🚀
 
 
 ## 🌐 Socials:
