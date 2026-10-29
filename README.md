@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a Systems Engineer with experience debugging and validating HTML and JavaScript advertising tag integrations, leveragin tools like Python and SQL for supporting data validation and reconciliation.<br><br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
+Hi! I'm a Systems Engineer with experience debugging HTML and JavaScript integrations, investigating data discrepancies using SQL and developing Python scripts for operational data validation.<br><br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
 
 
 ## 🌐 Socials:
