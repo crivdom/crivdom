@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! I'm a Systems Engineer with experience debugging HTML and JavaScript integrations, investigating data discrepancies using 
-SQL and developing Python scripts for operational data validation.<br><br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
+SQL and developing Python scripts for operational data validation and hands-on experience building web applications using 
+Python, Flask and SQLite, complemented by foundational programming experience in C. <br><br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
 
 
 ## 🌐 Socials:
