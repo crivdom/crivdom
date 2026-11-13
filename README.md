@@ -1,7 +1,5 @@
 # 💫 About Me:
-Systems Engineer with an emphasis in programming, data structures, algorithms and web deveopment.
-
-Through both professional and self-taught experience, I've developed skills in programming languages such as C, Python, SQL, HTML, CSS and JavaScript, while also learning how to design efficient algorithms and debugging code. <br><br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
+Systems Engineer with experience troubleshooting enterprise SaaS platforms. Experienced in investigating JavaScript and HTML implementations, browser network requests, backend data and platform behavior to identify root causes and resolve complex technical issues. <br><br>I enjoy tackling challenges, learning new technologies and applying my knowledge to real-world problems. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
 
 
 ## 🌐 Socials:
