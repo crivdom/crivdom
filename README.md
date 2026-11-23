@@ -1,5 +1,7 @@
 # 💫 About Me:
-Systems Engineer with experience troubleshooting enterprise SaaS platforms. <br><br>Experienced in investigating JavaScript and HTML implementations, browser network requests, backend data and platform behavior to identify root causes and resolve complex technical issues. My goal is to continue growing in the IT industry and contribute to projects that make an impact.
+Systems Engineer with experience troubleshooting enterprise SaaS platforms. Experienced in investigating JavaScript
+and HTML implementations, browser network requests, backend data and platform behavior to identify root causes and
+resolve complex technical issues. <br><br> My goal is to continue growing in the IT industry and contribute to projects that make an impact.
 
 
 ## 🌐 Socials:
